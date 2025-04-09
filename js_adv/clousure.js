@@ -1,4 +1,4 @@
-//closure in js
+//closures in js
 function outer(){
     let counter = 4
     return function(){
