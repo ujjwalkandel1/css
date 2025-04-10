@@ -10,7 +10,7 @@ person.greet();
 const greetFunction = person.greet;
 greetFunction();
 
-const boundGreet = person.greet.bind( { name: "ujjwal"});
+const boundGreet = person.greet.bind( { name: "kandel"});
 boundGreet();
 
 //bind, call and apply
