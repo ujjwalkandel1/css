@@ -60,3 +60,22 @@
 // const names = ["Pedro", "jack", "jessica" ];
 // const names2 = [...names, "joel"];   
 
+//map, filter, reduce
+
+// let names = ["ujjwal", "Hari", "Ram"];
+
+// names.map((name) => {
+// //     console.log(name); 
+// return name + "1";
+// });
+
+let names = ["hello", "by", ];
+
+names.filter((name) => {
+    names.filter((name) => {
+        return name !== "hello"
+    })
+})
+
+// Async Await Fetch
+
